@@ -1,5 +1,5 @@
-# TourDuLich
-Đây là project Tour du lịch 
-Các thành viên
-Nguyễn Tuấn Thiền - 23010571
-Đặng Việt Anh - 23010689
+Tour du lich
+Mo ta : Ke hoach phat trien nen tang du lich
+Thanh vien
+Nguyen Tuan Thien - 23010571
+Dang Viet Anh - 23010689
